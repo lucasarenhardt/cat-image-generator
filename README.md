@@ -14,5 +14,5 @@ This project implements a deep learning model using Generative Adversarial Netwo
 ## Dataset
 The project uses a collection of cat face images, which are preprocessed and normalized to fit the model's requirements.
 
-- **Source**: Animal Faces HQ Dataset (AFHQ), using only the cat subset.
+- **Source**: [Animal Faces HQ Dataset (AFHQ)](https://github.com/clovaai/stargan-v2/tree/master), using only the cat subset.
 - Images are resized to 128x128 pixels and normalized to a range between 0 and 1 for efficient training.
